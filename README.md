@@ -1,69 +1,21 @@
-# Tania-Merino.github.io
 # Tania Merino
 
 ## Junior Data Analyst
 
-Aspiring Data Analyst with experience in business operations, reporting, customer service and education.
+Aspiring Data Analyst with experience in business operations, reporting, and data-driven decision making.
 
-My portfolio showcases projects completed during an intensive Data Analytics Bootcamp, demonstrating my growth in SQL, Excel, Python, data visualization, exploratory analysis, and business intelligence.
+## Featured Projects
 
+### 🚦 Urban Mobility and Economic Productivity in Latin America
 
-### Technical Skills
+Analyzed the relationship between traffic congestion and urban economic performance using OECD and TomTom data.
 
-- Excel
-- SQL
-- Python
-- Data Visualization
-- Dashboard Creation
+[View Project](./projects/urban-mobility-analysis/)
 
-### Projects
+---
 
-#### Funnel and retention analysis - Mercado Libre
+### 🛒 MercadoLibre Funnel and Retention Analysis
 
-**Business Problem**
+Identified user drop-off points and retention patterns to support conversion optimization.
 
-Identify where users abandon the purchasing process and determine opportunities to improve conversion rates.
-
-**Tools**
-- SQL
-- Excel
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-
-**Process**
-- Cleaned and validated user event data.
-- Analyzed customer behavior across funnel stages.
-- Calculated conversion and retention metrics.
-- Identified critical drop-off points.
-- Simulated a higher rate in the weakest stage to analyze improvements in customers behaviour and thus, income.
-
-**Key Findings**
-- The largest abandonment occurred between Product View and Add to Cart.
-- An improvement in Product View would allow more events in Add to Cart.
-
-**Business Impact**
-Provided recommendations to improve user experience and increase conversion rates.
-
-**Skills Demonstrated**
-SQL, KPI Analysis, Funnel Analysis, Data Storytelling, Business Insights.
-
-### What I Learned
-
-This project strengthened my ability to:
-- Work with large datasets.
-- Identify meaningful KPIs.
-- Translate data into business recommendations.
-- Communicate findings to non-technical stakeholders.
-- Manage time effectively towards project completion objectives.
-
-
-### Professional Experience
-
-- English Teacher (University)
-
-
-### Contact
-
-LinkedIn: [Agregar enlace]
-
-Email: mercytan315@gmail.com
+[View Project](./projects/mercadolibre-funnel-analysis/)
