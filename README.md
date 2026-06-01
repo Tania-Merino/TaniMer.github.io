@@ -45,7 +45,7 @@ Identify where users abandon the purchasing process and determine opportunities 
 Provided recommendations to improve user experience and increase conversion rates.
 
 **Skills Demonstrated**
-SQL, KPI Analysis, Funnel Analysis, Data Storytelling, Business Insights.**
+SQL, KPI Analysis, Funnel Analysis, Data Storytelling, Business Insights.
 
 ### What I Learned
 
