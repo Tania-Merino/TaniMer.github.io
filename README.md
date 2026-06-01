@@ -4,6 +4,19 @@
 
 Data Analyst with experience in business operations, reporting, and data-driven decision making.
 
+My portfolio showcases projects completed during an intensive Data Analytics Bootcamp, demonstrating my growth in SQL, Excel, Python, data visualization, exploratory analysis, and business intelligence.
+
+### Technical Skills
+
+- SQL
+- Excel
+- Power BI
+- Python
+- Data Visualization
+- Exploratory Data Analysis
+- Dashboard Development
+- Business Reporting
+
 ## Featured Projects
 
 ### 🚦 Urban Mobility and Economic Productivity in Latin America
