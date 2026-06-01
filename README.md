@@ -2,7 +2,7 @@
 
 ## Junior Data Analyst
 
-Aspiring Data Analyst with experience in business operations, reporting, and data-driven decision making.
+Data Analyst with experience in business operations, reporting, and data-driven decision making.
 
 ## Featured Projects
 
