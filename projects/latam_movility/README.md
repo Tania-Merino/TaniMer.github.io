@@ -1,25 +1,25 @@
 # Movilidad Urbana y Productividad Económica en Ciudades de Latinoamérica
 
-## 📌 Business Problem
+## Business Problem
 
 Urban congestion generates economic losses through increased travel times, reduced productivity, and lower quality of life. The objective of this project was to identify cities where transportation infrastructure investments could have the greatest positive impact on economic performance and citizen well-being.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 Analyze the relationship between traffic congestion and urban economic performance across major Latin American cities to support data-driven infrastructure investment decisions.
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 - TomTom Traffic Index
 - OECD Urban Economic Indicators
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - Pandas
@@ -30,7 +30,7 @@ Analyze the relationship between traffic congestion and urban economic performan
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 1. Collected and prepared traffic congestion data from TomTom.
 2. Gathered economic performance indicators from OECD datasets.
@@ -41,7 +41,7 @@ Analyze the relationship between traffic congestion and urban economic performan
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 - Cities with higher congestion levels tended to show lower economic performance indicators.
 - Increased travel delays were associated with reduced urban productivity.
@@ -49,13 +49,13 @@ Analyze the relationship between traffic congestion and urban economic performan
 
 ---
 
-## 📈 Business Impact
+## Business Impact
 
 The analysis provided evidence-based insights that can support policymakers and urban planners in prioritizing transportation infrastructure projects. By identifying areas where congestion has the strongest economic impact, decision-makers can allocate resources more effectively and improve both productivity and quality of life.
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Python Programming
 - Pandas
@@ -68,7 +68,7 @@ The analysis provided evidence-based insights that can support policymakers and 
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 Through this project, I strengthened my ability to:
 
