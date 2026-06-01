@@ -1,4 +1,7 @@
+# Funnel and Retention Analysis – MercadoLibre
 
+## Business Problem
+Identify where users abandon the purchasing process.
 
 ### Technical Skills
 
@@ -7,10 +10,6 @@
 - Python
 - Data Visualization
 - Dashboard Creation
-
-### Projects
-
-#### Funnel and retention analysis - Mercado Libre
 
 **Business Problem**
 
@@ -48,8 +47,3 @@ This project strengthened my ability to:
 - Communicate findings to non-technical stakeholders.
 - Manage time effectively towards project completion objectives.
 
-### Contact
-
-LinkedIn: [Agregar enlace]
-
-Email: mercytan315@gmail.com
