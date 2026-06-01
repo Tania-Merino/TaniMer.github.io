@@ -80,7 +80,7 @@ Through this project, I strengthened my ability to:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Tania Merino**  
 Aspiring Data Analyst focused on business intelligence, reporting, and data-driven decision making.
