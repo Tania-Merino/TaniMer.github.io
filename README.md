@@ -21,6 +21,7 @@ My portfolio showcases projects completed during an intensive Data Analytics Boo
 #### Funnel and retention analysis - Mercado Libre
 
 **Business Problem**
+
 Identify where users abandon the purchasing process and determine opportunities to improve conversion rates.
 
 **Tools**
